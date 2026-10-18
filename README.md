@@ -38,7 +38,7 @@ The mod uses a "Fast-Path" check for standard falling blocks to ensure zero impa
 ## Requirements & Compatibility
 
 - **Platform:** Fabric
-- **Minecraft Versions:** 26.1, 26.1.1, 26.1.2, 26.2
+- **Minecraft Versions:** 26.3 (use version 1.0.0 builds for 26.1 – 26.2)
 - **Side:** **Server-Side Only**. Clients do not need to install this mod to benefit from the restored mechanics.
 
 ---
